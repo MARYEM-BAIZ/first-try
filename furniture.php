@@ -38,9 +38,9 @@
           </div>
         </nav>
        <div class="divheader">
-           <h1 class="h1-1-div-header">Minimalist</h1>
-           <h1 class="h1-div-header">interior style</h1>
-           <h2 class="h2-div-header">View collection</h2>
+           <h1 class="">Minimalist</h1>
+           <h1 class="">interior style</h1>
+           <h2 class="">View collection</h2>
        </div>
     </header>
 
