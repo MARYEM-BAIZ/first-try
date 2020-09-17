@@ -19,7 +19,32 @@
 </head>
 <body>
    
-<?php include('header.php'); ?>
+<header>
+        <nav>
+            <div class="div-1-header">
+                <img src="img/logo.png" alt="immage">
+                
+            </div>
+            <div  id="menu">
+                <a     id="btn1" href="">Homme</a>
+                <a   id="btn2" href="">Products</a>
+                <a   id="btn3" href="">Single Products</a>
+                <a   id="btn4" href="">Store</a>
+            </div>
+            <a href="" id="btn" > <i class="fa fa-bars"    aria-hidden="true"></i></a>
+          <div class="div-3-header">
+            <i class="fa fa-search" aria-hidden="true"></i>
+            <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+          </div>
+        </nav>
+       <div class="divheader">
+           <h1 class="h1-1-div-header">Minimalist</h1>
+           <h1 class="h1-div-header">interior style</h1>
+           <h2 class="h2-div-header">View collection</h2>
+       </div>
+    </header>
+
+
      <main>
          <section class="section1">
              <article>
@@ -44,10 +69,10 @@
                  <h6>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, quae.</h6>
                  <h6>View All Categories</h6>
              </article>
-             <img src="/img/cagetogoryImg/kitchen-category.jpeg" alt="immage">
-             <img src="/img/cagetogoryImg/bathroom-category.jpeg" alt="immage">
-             <img src="/img/cagetogoryImg/livingroom-category.jpeg" alt="immage">
-             <img src="/img/cagetogoryImg/patio-category.jpeg" alt="immage">
+             <img src="img/cagetogoryImg/kitchen-category.jpeg" alt="immage">
+             <img src="img/cagetogoryImg/bathroom-category.jpeg" alt="immage">
+             <img src="img/cagetogoryImg/livingroom-category.jpeg" alt="immage">
+             <img src="img/cagetogoryImg/patio-category.jpeg" alt="immage">
          </section>
          <section id="section3">
         <div  class="divsection3">
@@ -61,32 +86,32 @@
              <h6>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Obcaecati, voluptatibus!</h6>
              <div>
                 <div>
-                    <img src="/img/img-products/product-1.png" alt="immage">
+                    <img src="img/img-products/product-1.png" alt="immage">
                     <h4>Spesial Product</h4>
                     <h6><pre><span class="span200dollars">$200</span>   $100</pre></h6>
                 </div>
                 <div>
-                    <img src="/img/img-products/product-2.png" alt="immage">
+                    <img src="img/img-products/product-2.png" alt="immage">
                     <h4>Spesial Product</h4>
                     <h6><pre><span class="span200dollars">$200</span>   $100</pre></h6>
                 </div>
                  <div>
-                    <img src="/img/img-products/product-3.png" alt="immage">
+                    <img src="img/img-products/product-3.png" alt="immage">
                     <h4>Spesial Product</h4>
                     <h6><pre><span class="span200dollars">$200</span>   $100</pre></h6>
                  </div>
                  <div>
-                    <img src="/img/img-products/product-4.png" alt="immage">
+                    <img src="img/img-products/product-4.png" alt="immage">
                     <h4>Spesial Product</h4>
                     <h6><pre><span class="span200dollars">$200</span>   $100</pre></h6>
                  </div>
               <div>
-                <img src="/img/img-products/product-5.png" alt="immage">
+                <img src="img/img-products/product-5.png" alt="immage">
                 <h4>Spesial Product</h4>
                 <h6><pre><span class="span200dollars">$200</span>   $100</pre></h6>
               </div>
                  <div>
-                    <img src="/img/img-products/product-6.png" alt="immage">
+                    <img src="img/img-products/product-6.png" alt="immage">
                     <h4>Spesial Product</h4>
                     <h6> <pre><span class="span200dollars">$200</span>   $100</pre></h6>
                  </div>
@@ -96,12 +121,12 @@
              <div id="divsection5">
                  <table id="table">
                      <tr>
-                         <td>  <img id="imgslider1" src="/img/company-logos/company-logo-1.png" alt="immage"></td>
-                         <td>  <img id="imgslider2" src="/img/company-logos/company-logo-2.png" alt="immage"></td>
-                         <td>  <img id="imgslider3" src="/img/company-logos/company-logo-3.png" alt="immage"></td>
-                         <td>  <img id="imgslider4" src="/img/company-logos/company-logo-4.png" alt="immage"></td>
-                         <td>  <img id="imgslider5" src="/img/company-logos/company-logo-5.png" alt="immage"></td>
-                         <td>  <img id="imgslider6" src="/img/company-logos/company-logo-6.png" alt="immage"></td>
+                         <td>  <img id="imgslider1" src="img/company-logos/company-logo-1.png" alt="immage"></td>
+                         <td>  <img id="imgslider2" src="img/company-logos/company-logo-2.png" alt="immage"></td>
+                         <td>  <img id="imgslider3" src="img/company-logos/company-logo-3.png" alt="immage"></td>
+                         <td>  <img id="imgslider4" src="img/company-logos/company-logo-4.png" alt="immage"></td>
+                         <td>  <img id="imgslider5" src="img/company-logos/company-logo-5.png" alt="immage"></td>
+                         <td>  <img id="imgslider6" src="img/company-logos/company-logo-6.png" alt="immage"></td>
                      </tr>
                  </table>    
                <a href="" id="btnslidergauche"><i class="fa fa-arrow-left" aria-hidden="true"></i></a>
@@ -121,6 +146,59 @@
 
 
 
+     <footer>
+    <div class="firstdivfooter">
+        <article >
+            <i class="fa fa-truck fa-2x" aria-hidden="true"></i>
+           <div>
+            <h1 class="h1firstdiv">FREE SHIPING</h1>
+            <p class="pfirstdiv">
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi assumenda possimus, eveniet excepturi dolor minus.
+            </p>
+           </div>
+        </article>
+        <article>
+            <i class="fa fa-usd fa-2x" aria-hidden="true"></i>
+           <div >
+            <h1 class="h1firstdiv">PRICE PROMISE</h1>
+            <p class="pfirstdiv">
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi assumenda possimus, eveniet excepturi dolor minus.
+            </p>
+           </div>
+        </article>
+        <article>
+            <i class="fa fa-usd fa-2x" aria-hidden="true"></i>
+          <div>
+            <h1 class="h1firstdiv">lifetime warranty</h1>
+            <p class="pfirstdiv">
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi assumenda possimus, eveniet excepturi dolor minus.
+            </p>
+          </div>
+        </article>
+    </div>
+    <div class="lastdivfoter">
+        <h1 class="h1lastdiv">COMFY SLOTH</h1>
+        <div class="divifooter">
+            <i class="fa fa-facebook-official" aria-hidden="true"></i>
+            <i class="fa fa-twitter" aria-hidden="true"></i>
+            <i class="fa fa-google-plus-official" aria-hidden="true"></i>
+            <i class="fa fa-instagram" aria-hidden="true"></i>
+            <i class="fa fa-youtube-play" aria-hidden="true"></i>
+        </div>
+        <div class="divtextfooter">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore officiis laborum aliquid sunt rerum perspiciatis eligendi reiciendis eveniet explicabo quod! Harum deleniti sed quas illo facilis repudiandae iusto, labore impedit.</div>
+           <div class="lastdivfooter-articles">
+               <article>
+                   <pre><i class="fa fa-map" aria-hidden="true"></i></pre>   123 Main Street , Los Angeles
+               </article>
+               <article>
+                   <pre><i class="fa fa-phone" aria-hidden="true"></i></pre>   Phone : +(310) 111 2222
+                </article>
+                <article>
+                    <pre><i class="fa fa-envelope" aria-hidden="true"></i></pre>   Email : Eamil@Email.Com
+                </article>
+           </div>
+    </div>
+</footer>
 
     <script>
     
@@ -208,8 +286,7 @@ bouton.addEventListener("click",function(event){
              }
        
     </script>
-  
 </body>
-<?php include('footer.php'); ?>
+
 
 </html>

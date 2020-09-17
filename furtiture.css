@@ -141,7 +141,7 @@ header nav div{
     border-bottom:1px solid  rgb(253,190 ,2 );
 }
 .divheader{
-    background-image: url(/img/pageBcg/bannerBcg.jpeg);
+    background-image: url(img/pageBcg/bannerBcg.jpeg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -163,7 +163,7 @@ header nav div{
     
 }
 #section3{
-    background-image: url(/img/home-filler.jpeg);
+    background-image: url(img/home-filler.jpeg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
